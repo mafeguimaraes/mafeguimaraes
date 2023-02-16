@@ -3,7 +3,7 @@
 - 📚 I want to become a front end developer
 - 💬 Ask me about astronomy, books, music and programming
 - 📫 you can reach me in the links below
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her/hers
 
 ##
 
