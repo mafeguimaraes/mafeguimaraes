@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning javascript and React.js
 - 📚 I want to become a front end developer
 - 💬 Ask me about astronomy, books, music and programming
-- 📫 you can reach me in the links below
+- 📫 You can reach me in the links below
 - 😄 Pronouns: she/her/hers
 
 ##
