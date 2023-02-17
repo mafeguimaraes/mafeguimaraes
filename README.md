@@ -7,6 +7,10 @@
 
 ##
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafeguimaraes&theme=tokyonight)
+
+##
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -15,8 +19,8 @@
   
 </div>
 
-
 ##
+
 <h3 align="left">My skills:</h3>
  <a href="https://github.com/mafeguimaraes" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a> 
  <a href="https://github.com/mafeguimaraes" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank"></a>
