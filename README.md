@@ -1,6 +1,6 @@
-- 👋 Hi there, I'm Maria Fernanda! I'm a computer science student at PUC Minas
-- 🌱 I’m currently learning javascript and React.js
-- 📚 I want to become a front end developer
+- 👋 Hi there, I'm Maria Fernanda! I'm a Master's Student in Computer Science at UFMG
+- 🌱 I’m currently learning Verilog
+- 📚 I want to become a compiler engineer
 - 💬 Ask me about astronomy, books, music and programming
 - 📫 You can reach me in the links below
 - 😄 Pronouns: she/her/hers
