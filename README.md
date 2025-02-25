@@ -1,7 +1,7 @@
 - 👋 Hi there, I'm Maria Fernanda! I'm a Master's Student in Computer Science at UFMG
 - 🌱 I’m currently learning Verilog and C++
 - 📚 I want to become a compiler engineer
-- 💬 Ask me about astronomy, books, music and programming
+- 💬 Ask me about tennis, books, music and programming
 - 📫 You can reach me in the links below
 - 😄 Pronouns: she/her/hers
 
