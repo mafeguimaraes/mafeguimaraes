@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Maria Fernanda! I'm a Master's Student in Computer Science at UFMG
-- 🌱 I’m currently learning Verilog, C++ and MLIR
+- 🌱 I’m currently learning C++ and MLIR
 - 📚 I want to become a compiler engineer
 - 💬 Ask me about tennis, books, music and programming
 - 📫 You can reach me in the links below
@@ -24,7 +24,6 @@
 <h3 align="left">My skills:</h3>
  <a href="https://github.com/mafeguimaraes" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a> 
  <a href="https://github.com/mafeguimaraes" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/mafeguimaraes" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> 
    <a href="https://github.com/mafeguimaraes" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> 
      <a href="https://github.com/mafeguimaraes" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank"></a>
 
